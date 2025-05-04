@@ -47,9 +47,9 @@ This project applies various machine learning algorithms to accurately detect an
 ## 📂 File Structure
 
 ```
-├── Early Detection of Breast Cancer - A Machine Learning Approach .ipynb             # Main notebook
-├── BreastCancer_Screening.csv      # Dataset
-├── README.md                       # Project overview and documentation
+├── Early Detection of Breast Cancer.ipynb             # Main notebook
+├── BreastCancer_Screening.csv                         # Dataset
+├── README.md                                          # Project overview and documentation
 ```
 
 ## 🛠️ Tools & Libraries
