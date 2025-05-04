@@ -1,5 +1,8 @@
 # Early Detection of Breast Cancer – A Machine Learning Approach to Classification and Anomaly Detection
 
+## ℹ️ About
+This project focuses on the early detection of breast cancer using supervised and unsupervised machine learning techniques. By analyzing diagnostic measurements from digitized images of breast mass cell nuclei, the models aim to predict whether a tumor is malignant or benign. The goal is to support early diagnosis efforts, improve patient outcomes, and demonstrate the practical application of machine learning in healthcare.
+
 ## 📌 Project Overview
 This project applies various machine learning algorithms to accurately detect and classify breast cancer tumors as benign or malignant using diagnostic features. It demonstrates the end-to-end ML workflow — from data preprocessing to evaluation and bias-variance analysis.
 
