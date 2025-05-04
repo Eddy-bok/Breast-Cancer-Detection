@@ -58,6 +58,6 @@ This project applies various machine learning algorithms to accurately detect an
 - TensorFlow / Keras
 
 ## 👨‍💻 Author
-Edidionn Ibokete  
+Edidiong Ibokete  
 [GitHub Profile](https://github.com/Eddy-bok)
 
